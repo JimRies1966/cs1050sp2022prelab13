@@ -1,6 +1,13 @@
+/*****************************************************************************
+ * Prelab 13 Starter Code
+ * by Jim Ries
+ *****************************************************************************/
+
+// Includes
 #include <stdio.h>
 #include "basicplayer.h"
 
+// Main
 int main(void)
 {
     BasicPlayer player;
